@@ -1,0 +1,8 @@
+# Ignore big raw files
+*.zip
+*.pkl
+*.pickle
+*.parquet
+*.xlsx
+*.db
+raw_data/
