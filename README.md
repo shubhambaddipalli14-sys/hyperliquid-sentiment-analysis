@@ -36,6 +36,7 @@ Python | Pandas | Matplotlib | Seaborn | Google Colab
 
 ## 🔗 Notebook
 Colab Link: *(https://colab.research.google.com/drive/10PDOsWXlYRAf0Xn4Eu7jBPwkt37Rq79J?usp=sharing)*
+
 Google Drive: *(https://drive.google.com/drive/folders/18qi7iGeJCvDBrwxYY6vcDxY8Dxds9xnj?usp=sharing)*
 
 ---
